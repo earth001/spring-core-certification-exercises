@@ -24,7 +24,7 @@
     <spring-framework.version>5.2.3.RELEASE</spring-framework.version>
 
     <!-- Spring Security -->
-    <spring-security.version>5.1.1.RELEASE</spring-security.version>
+    <spring-security.version>5.2.10.RELEASE</spring-security.version>
 
     <!-- Hibernate / JPA -->
     <hibernate.version>5.3.7.Final</hibernate.version>
